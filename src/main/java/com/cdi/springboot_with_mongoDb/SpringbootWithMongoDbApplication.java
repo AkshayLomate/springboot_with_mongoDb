@@ -9,5 +9,4 @@ public class SpringbootWithMongoDbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootWithMongoDbApplication.class, args);
 	}
-
 }
